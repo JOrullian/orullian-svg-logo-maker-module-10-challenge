@@ -19,8 +19,6 @@ ${triangle.render()}
 ${text.render("abc")}
 </svg>`;
 
-console.log(svgRendered);
-
         expect(svg.render()).toEqual(svgRendered);
     });
 });
