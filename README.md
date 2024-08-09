@@ -14,7 +14,7 @@ The user targets the download location of the app in their terminal. An alternat
 
 This will initiate the application and the user will be greeted with a series of questions to get the text, shape, and colors for the logo.  Upon completing all of the questions, the new logo will be saved to the `created` folder under the title `logo.svg`.  The logo.svg can be opened in a text editor and altered to the desires of the user.
 
-[Tutorial Video]()
+[Tutorial Video](https://drive.google.com/file/d/1eb3QconSKekVc3T90IB1pWHgmW_YW9fs/view?usp=sharing)
 
 ## Credits
 ### Third-Party Assets
